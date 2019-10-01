@@ -1,0 +1,43 @@
+﻿  compilation object save succeeded; see Z:\IGMProfile\Courses\3rd Year\GGP\d11\x64\Debug\AdditiveBlend.cso
+  compilation object save succeeded; see Z:\IGMProfile\Courses\3rd Year\GGP\d11\x64\Debug\BlurShader.cso
+  compilation object save succeeded; see Z:\IGMProfile\Courses\3rd Year\GGP\d11\x64\Debug\defaultPixelShader.cso
+  compilation object save succeeded; see Z:\IGMProfile\Courses\3rd Year\GGP\d11\x64\Debug\dofPS.cso
+  compilation object save succeeded; see Z:\IGMProfile\Courses\3rd Year\GGP\d11\x64\Debug\ExtractBrightPS.cso
+  compilation object save succeeded; see Z:\IGMProfile\Courses\3rd Year\GGP\d11\x64\Debug\GaussianBlur.cso
+  compilation object save succeeded; see Z:\IGMProfile\Courses\3rd Year\GGP\d11\x64\Debug\PixelShader.cso
+  compilation object save succeeded; see Z:\IGMProfile\Courses\3rd Year\GGP\d11\x64\Debug\PixelShader2.cso
+  compilation object save succeeded; see Z:\IGMProfile\Courses\3rd Year\GGP\d11\x64\Debug\PostProcessVS.cso
+  compilation object save succeeded; see Z:\IGMProfile\Courses\3rd Year\GGP\d11\x64\Debug\SkyPS.cso
+  compilation object save succeeded; see Z:\IGMProfile\Courses\3rd Year\GGP\d11\x64\Debug\SkyVS.cso
+  compilation object save succeeded; see Z:\IGMProfile\Courses\3rd Year\GGP\d11\x64\Debug\VertexShader.cso
+  Camera.cpp
+  DXCore.cpp
+  Entity.cpp
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Camera.cpp(28,21): warning C4305:  '=': truncation from 'double' to 'float'
+  Game.cpp
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Entity.cpp(73,17): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(175,36): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(176,31): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(178,40): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(179,36): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(181,43): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(182,38): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(187,43): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(188,36): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(189,22): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(193,43): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(194,30): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(585,61): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(590,61): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(595,59): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(600,57): warning C4305:  'argument': truncation from 'double' to 'float'
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(814,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  Material.cpp
+  Mesh.cpp
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Game.cpp(815,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Mesh.cpp(172,26): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+  SimpleShader.cpp
+  Generating Code...
+Z:\IGMProfile\Courses\3rd Year\GGP\d11\DX11Starter\Mesh.cpp(173,24): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+  DX11Starter.vcxproj -> Z:\IGMProfile\Courses\3rd Year\GGP\d11\x64\Debug\DX11Starter.exe
